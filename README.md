@@ -667,4 +667,4 @@ $ yarn spellcheck
 
 The MIT License (MIT)
 
-Copyright (c) 2015-2022 Steven Chim
+Copyright (c) 2015-2022 Steven Chim dufu
